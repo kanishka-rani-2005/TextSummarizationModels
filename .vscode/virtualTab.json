@@ -1,0 +1,14 @@
+[
+  {
+    "id": "builtin_group_id",
+    "name": "Currently Open Files",
+    "files": [
+      ".gitignore",
+      "setup.cfg",
+      "README.md",
+      "pyproject.toml"
+    ],
+    "builtIn": true,
+    "bookmarks": {}
+  }
+]
