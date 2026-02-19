@@ -3,7 +3,10 @@
 
 A Command-Line Interface (CLI) tool to compare and rank HuggingFace text summarization models using the TOPSIS (Technique for Order Preference by Similarity to Ideal Solution) method.
 
----
+# 🔗 Pypi Link
+
+https://pypi.org/project/kanishka-summarization-topsis/
+
 
 ## 📌 What This Tool Does
 
